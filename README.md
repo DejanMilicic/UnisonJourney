@@ -2,6 +2,6 @@
 
 Documenting my Unison Journey
 
-[Install UCM](InstallUcm.md) and [Run UCM](RunUcm.md)
+[Install UCM CLI](InstallUcm.md) and [Run it](RunUcm.md)
 
-
+[Install UCM Desktop](InstallUcmDesktop.md)
